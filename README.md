@@ -1,4 +1,4 @@
-# Intelligent-Athlete
+# StatappCovid
 
 ## Table of contents
 * [Introduction](#introduction "Goto introduction")
