@@ -10,7 +10,7 @@ This project consists in the analysis of data regarding mortality rates in Italy
 2. **Cluster Analysis**: Hierarchical clustering is used to cluster Italian regions according to how they were affected by COVID throughout 2020. [Results (final clusters)](https://github.com/SnoopKilla/StatappCovid/blob/main/Output/Plot/Semester%20-%20Clusters.pdf)
 3. **Correlation with Google Search Trends**: A functional data analysis technique (dynamical correlation) is used to investigate the correlation between mortality data and (daily) google search trends for specific keywords ("polmonite" and "febbre"). [Results (correlation for "febbre")](https://github.com/SnoopKilla/StatappCovid/blob/main/Output/Plot/Correlation%20-%20Febbre.pdf).
 
-**I personally contributed to this project by developing step 3 of the analysis.**
+**I personally contributed to this project by developing step 2 of the analysis.**
 
 ## Technologies
 Project is created with **R**.
